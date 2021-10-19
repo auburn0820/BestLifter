@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.3)
+  - OpenCV2 (4.3.0)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - OpenCV2
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - OpenCV2
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  OpenCV2: ffe82e5cb5d16dc3fc01a5f4127b9a5b3cfc7d1b
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: f8c093710d7b49e4d763e5d902dee07f4746aba7
+
+COCOAPODS: 1.8.4

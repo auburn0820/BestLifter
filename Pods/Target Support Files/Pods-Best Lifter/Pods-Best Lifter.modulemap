@@ -1,0 +1,6 @@
+framework module Pods_Best_Lifter {
+  umbrella header "Pods-Best Lifter-umbrella.h"
+
+  export *
+  module * { export * }
+}

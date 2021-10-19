@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20D91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BenchPress" representedClassName="BenchPress" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="BodyWeight" representedClassName="BodyWeight" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="DailyDietMeal" representedClassName="DailyDietMeal" syncable="YES" codeGenerationType="class">
+        <attribute name="dailyDiet" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Deadlift" representedClassName="Deadlift" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Program" representedClassName="Program" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="routine" optional="YES" attributeType="String" customClassName="NSArray"/>
+        <attribute name="total_weight" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Squat" representedClassName="Squat" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="BenchPress" positionX="-54" positionY="27" width="128" height="59"/>
+        <element name="BodyWeight" positionX="-63" positionY="18" width="128" height="59"/>
+        <element name="DailyDietMeal" positionX="-63" positionY="18" width="128" height="44"/>
+        <element name="Deadlift" positionX="-18" positionY="45" width="128" height="59"/>
+        <element name="Program" positionX="-63" positionY="-9" width="128" height="74"/>
+        <element name="Squat" positionX="-36" positionY="36" width="128" height="59"/>
+    </elements>
+</model>

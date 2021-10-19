@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Squat+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Squat+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:BodyWeight+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:BodyWeight+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:DailyDietMeal+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:DailyDietMeal+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:BenchPress+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:BenchPress+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Program+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Program+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Deadlift+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Deadlift+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Best Lifter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
